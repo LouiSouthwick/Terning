@@ -1,1 +1,3 @@
 # Terning
+
+testTerning
