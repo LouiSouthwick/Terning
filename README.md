@@ -6,6 +6,11 @@ master: Det er terninge programmet og det er der hvor vi kommer til at teste vor
 
 Bugfixes: Det er den branch, hvor vi uploader programmet som er rettet for fejl. 
 
+
 Gruppenummer: 40
+
 Daniel Anusic S155005
+
 Daniel Larsen S151641
+
+Peter El-Habr s165202
