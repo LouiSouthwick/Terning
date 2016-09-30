@@ -27,3 +27,5 @@ Daniel Anusic (s155005) https://github.com/iyyel
 Daniel Larsen (s151641) https://github.com/Dani972e
 
 Peter El-Habr (s165202) https://github.com/PeterEdtu
+
+Loui  Southwick (s161788) https://github.com/LouiSouthwick
