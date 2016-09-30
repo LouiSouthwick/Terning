@@ -9,8 +9,8 @@ Bugfixes: Det er den branch, hvor vi uploader programmet som er rettet for fejl.
 
 Gruppenummer: 40
 
-Daniel Anusic S155005
+Daniel Anusic (s155005) https://github.com/iyyel
 
-Daniel Larsen S151641
+Daniel Larsen (s151641) https://github.com/Dani972e
 
-Peter El-Habr s165202
+Peter El-Habr (s165202) https://github.com/PeterEdtu
