@@ -1,6 +1,6 @@
 # Terning BugFixes
-@author Peter EL-HABR s165202
 
+@author Peter EL-HABR s165202
 
 3 bugs fixed:
 
