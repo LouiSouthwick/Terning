@@ -2,10 +2,12 @@
 
 Vi har to branches i dette repository. Den ene er master og den anden er BugFixes. 
 
-master: Det er terninge programmet og det er der hvor vi kommer til at teste vores program som vi fik udleveret. vi tester det via UnitTest
+master: Her har vi det originale terning-program, hvor der ikke er fikset nogle bugs. Her bliver der uploaded en JUnit test.
 
-Bugfixes: Det er den branch, hvor vi uploader programmet som er rettet for fejl. 
+BugFixes: I denne branch, uploader vi selv samme program, hvor alle bugs er fixed.
 
+
+# Information
 
 Gruppenummer: 40
 
